@@ -1,1 +1,3 @@
-Voici le fichier à forker et modifier
+﻿Voici le fichier à forker et modifier
+modification edit.txt dans branche modif du compte colaboratorCap
+autre modification
